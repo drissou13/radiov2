@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1></h1>
+
+    <div class="top-bar">
+        <div class="tabs">
+            <button class="tab active" data-type="radio">Radio</button>
+            <button class="tab" data-type="webradio">WebRadio</button>
+        </div>
+
+        <button id="theme-toggle">🌙</button>
+    </div>
+</header>
+
+<main>
+    <div id="radio-cards" class="cards"></div>
+</main>
+
+<!-- Player flottant -->
+<div class="player-bar">
+    <div class="player-info">
+        <strong id="now-playing">Aucune radio</strong>
+        <span id="now-title">—</span>
+    </div>
+
+    <audio id="player" controls></audio>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
