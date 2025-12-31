@@ -67,19 +67,13 @@ const radios = [
     image: "https://api.radio.orange.com/logos/radios/medium/france_maghreb_2.png",
   },
   {
-    name: "RFM",
-    type: "radio",
-    stream: "  http://rfm.lmn.fm/rfm.mp3",
-    image: "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Rfm-2011.svg/1200px-Rfm-2011.svg.png",
-},
-  {
-    name: "Ici Provence ",
+      name: "Ici Provence ",
     type: "radio",
     stream: "https://icecast.radiofrance.fr/fbprovence-midfi.mp3",
     image: "https://www.radio.fr/300/francebleuprovence.png?version=6c4c99554ac5f738d97ab81f01f2e9ee0657ce16",
 },
     {
-    name: "France Culture  ",
+    name: "France Culture",
     type: "radio",
     stream: "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
     image: "https://www.wikiberal.org/images/a/a3/France_culture_logo.jpg",
