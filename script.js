@@ -78,6 +78,12 @@ const radios = [
     stream: "https://icecast.radiofrance.fr/fbprovence-midfi.mp3",
     image: "https://www.radio.fr/300/francebleuprovence.png?version=6c4c99554ac5f738d97ab81f01f2e9ee0657ce16",
 },
+    {
+    name: "France Culture  ",
+    type: "radio",
+    stream: "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
+    image: "https://www.wikiberal.org/images/a/a3/France_culture_logo.jpg",
+},
 
 
 
