@@ -91,13 +91,13 @@ const radios = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CL9okRY3Hzg-S1qDAT7j167rR0w-rNL_Zw&s",
     },
 {
-    name: "FG Dance ",
+    name: "FG Dance",
     type: "radio",
     stream: "http://stream.rcs.revma.com/zfad8vm4srhvv",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEWrjd0R_DbAWUrTWXu49I1FA2QBfOpIjOg&s",
     },
     {
-    name: "Radio Vinci cote azur  ",
+    name: "Radio Vinci cote azur",
     type: "radio",
     stream: "http://sc.creacast.com/rva-escota-est",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CkJuKWWEKIWaXL7-8NU61sP_pMJj1SuIIQ&s",
