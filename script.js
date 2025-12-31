@@ -78,6 +78,31 @@ const radios = [
     stream: "http://icecast.radiofrance.fr/franceculture-midfi.mp3",
     image: "https://www.wikiberal.org/images/a/a3/France_culture_logo.jpg",
 },
+{
+    name: "Europe1",
+    type: "radio",
+    stream: "https://europe1.lmn.fm/europe1.mp3",
+    image: "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f1ae94c600107d567063b5c8813e1891",
+    },
+{
+    name: "Europe2",
+    type: "radio",
+    stream: "https://europe1.lmn.fm/europe2.mp3",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CL9okRY3Hzg-S1qDAT7j167rR0w-rNL_Zw&s",
+    },
+{
+    name: "FG Dance ",
+    type: "radio",
+    stream: "http://stream.rcs.revma.com/zfad8vm4srhvv",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEWrjd0R_DbAWUrTWXu49I1FA2QBfOpIjOg&s",
+    },
+    {
+    name: "Radio Vinci cote azur  ",
+    type: "radio",
+    stream: "http://sc.creacast.com/rva-escota-est",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CkJuKWWEKIWaXL7-8NU61sP_pMJj1SuIIQ&s",
+    },
+
 
 
 
