@@ -67,7 +67,7 @@ const radios = [
     image: "https://api.radio.orange.com/logos/radios/medium/france_maghreb_2.png",
   },
   {
-    name: "WebRadio Chill",
+    name: "RFM",
     type: "radio",
     stream: "  http://rfm.lmn.fm/rfm.mp3",
     image: "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Rfm-2011.svg/1200px-Rfm-2011.svg.png",
