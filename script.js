@@ -107,7 +107,7 @@ const radios = [
     type: "webradio",
     stream: "https://manager10.streamradio.fr:1675/stream",
     image: "https://13engagee.com/uploads/6925d98840d94/site/1765385215_d503cb02dfb57e8cc8a1.png",
-    },
+    } ,
  ];
 
 /* ====== ELEMENTS ====== */
