@@ -103,11 +103,11 @@ const radios = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CkJuKWWEKIWaXL7-8NU61sP_pMJj1SuIIQ&s",
     },
     {
-    name: "radio13engagée",
+    name: "Radio 13engagee ",
     type: "webradio",
     stream: "https://manager10.streamradio.fr:1675/stream",
     image: "https://13engagee.com/uploads/6925d98840d94/site/1765385215_d503cb02dfb57e8cc8a1.png",
-    } ,
+    },
  ];
 
 /* ====== ELEMENTS ====== */
