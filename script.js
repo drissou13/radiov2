@@ -120,6 +120,24 @@ const radios = [
         stream: "https://streaming.nrjaudio.fm/ou3ci9uizv6i?origine=fluxradios&aw_0_1st.station=Nostalgie-Chansons-Francaises",
         image:  "https://www.radio.fr/300/nostalgiebecf.png?version=8ff2cd8cc1b1207df49dd64750ad8cc12e18d073"
     },
+     {
+        name: "Nostalgie danse collector ",
+        type: "webradio",
+        stream: "https://streaming.nrjaudio.fm/oumvgg8fnozc?origine=fluxradios&aw_0_1st.station=Nostalgie-Dance-Collector",
+        image:  "https://radoxo.com/images/france/nostalgie-dance-collector.png"
+    },
+    {
+        name: "Nostalgie party 90 ",
+        type: "webradio",
+        stream: "https://streaming.nrjaudio.fm/ougobwrb92oc?origine=fluxradios&aw_0_1st.station=Nostalgie-Dance-Party-90",
+        image:  "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/173x173/NOSTA-WR_DANCE-PARTY-90.jpg"
+    },
+    {
+        name: "Nostalgie Légendes  ",
+        type: "webradio",
+        stream: "https://streaming.nrjaudio.fm/ou8ouhgk7oiu?origine=fluxradios&aw_0_1st.station=Nostalgie-Legendes",
+        image:  "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/173x173/NOSTA-WR-LEGENDES.jpg"
+    },
  ];
 
 /* ====== ELEMENTS ====== */
