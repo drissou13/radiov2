@@ -63,7 +63,7 @@ const radios = [
   {
     name: "France Maghreb2",
     type: "radio",
-    stream: "http://broadcast.infomaniak.ch/francemaghreb2-high.mp3",
+    stream: "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3?token=exp%3D1771706757~acl%3D%2Ffrancemaghreb2-high~hmac%3Df59feee0767d2a7290b7a2aaac9a23c330b77b91998445d10611edf08f0c0577&CAID=202601271917155432324404&consent=CQf-ZcAQf-ZcABaADAENCSFsAP_gAEPgAAqIIyNR_G_fbWlj-bZ1aftkeYxP9_hrrkQxBgaJk24FyJvW7JwXx2E5NAzapqIKmRIAu3TBIQFlHIDURUCgKIgFrSDMaE2EoTNKJ6BEiFMZA2NYCFhPm4FDWQCYotrt9lcxmB-t7dr8ydzyy6hHn3K5_2S1UJCdIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEDnWo_jfutryx_Fgq8P2yHMYv-_wB1yIYggNE0bMC5E1LckYJ77CZkiRNEFMEDIgAUbogkACUjAQiIiBQhEQKloh2ACaAUJmkANAiQBmMsTAoACQnxcChrIBM0GU3Oqu8xJbWcm17ZK5ZLNwRz7lWvPJKqExOEAAAAA.IIyNR_G_fbXlj-bZ16ftkeYxf9_hrrkQxBgaJs24FyJvW7JwX32E7NEzapqYKmRIAu3TBIQFtHIjURUChKIgVrTDsaE2EoTNKJ6BEiHMZY2NYCFhPm4FDWQCZotrv91d5mT-t7dr-ydzy27hnn3K9_-S1UJidIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA.f_wACHwAAAAA",
     image: "https://api.radio.orange.com/logos/radios/medium/france_maghreb_2.png",
   },
   {
