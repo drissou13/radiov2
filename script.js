@@ -57,7 +57,7 @@ const radios = [
   {
     name: "Radio Galère",
     type: "radio",
-    stream: "http://www.radiogalere.org:8080/galere.mp3",
+    stream: "https://live.radiogalere.org/galere",
     image: "https://radiogalere.org/wp-content/uploads/2024/04/Stickers-rond-74mm.png",
 },
   {
