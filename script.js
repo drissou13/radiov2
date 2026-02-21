@@ -63,7 +63,7 @@ const radios = [
   {
     name: "France Maghreb2",
     type: "radio",
-    stream: "   http://broadcast.infomaniak.ch/francemaghreb2-high.mp3",
+    stream: "http://broadcast.infomaniak.ch/francemaghreb2-high.mp3",
     image: "https://api.radio.orange.com/logos/radios/medium/france_maghreb_2.png",
   },
   {
