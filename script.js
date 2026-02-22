@@ -141,7 +141,7 @@ const radios = [
     {
         name: "radio gazelle  ",
         type: "radio",
-        stream: "http://srv2.streaming-ingenierie.fr:8134/;stream.mp3",
+        stream: "http://srv2.streaming-ingenierie.fr:8134/stream.mp3",
         image:  "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/49/7c/b9497c85-f7f7-c934-917b-f04a355bf9b7/AppIcon-1x_U007emarketing-0-5-85-220-0.png/1200x630wa.jpg"
     },
  ];
