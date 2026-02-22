@@ -138,6 +138,12 @@ const radios = [
         stream: "https://streaming.nrjaudio.fm/ou8ouhgk7oiu?origine=fluxradios&aw_0_1st.station=Nostalgie-Legendes",
         image:  "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/173x173/NOSTA-WR-LEGENDES.jpg"
     },
+    {
+        name: "radio gazelle  ",
+        type: "radio",
+        stream: "http://srv2.streaming-ingenierie.fr:8134/;stream.mp3",
+        image:  "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/49/7c/b9497c85-f7f7-c934-917b-f04a355bf9b7/AppIcon-1x_U007emarketing-0-5-85-220-0.png/1200x630wa.jpg"
+    },
  ];
 
 /* ====== ELEMENTS ====== */
